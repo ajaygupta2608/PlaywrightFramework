@@ -1,0 +1,15 @@
+[
+    {
+        "Scenario": "Invalid Credentials",
+        "username": "Ajay Gupta",
+        "password": "Admin233"
+
+    },
+
+    {
+        "Scenario": "empty Data",
+        "username": " ",
+        "password": " "
+
+    }
+]
